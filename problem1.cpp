@@ -1,3 +1,4 @@
+//Sort by 0,1,2
 #include<iostream>
 using namespace std;
 
@@ -19,7 +20,7 @@ void find(int arr){
     return arr;
 }
 int main(){
-  int arr[] = {1,0,0,0,1,1,0,1,0,0,1};
+  int arr[] = {1,0,0,0,1,2,0,1,0,0,1};
   int sarr[] = find(arr);
 
   for(int i=0; i<sarr.size(); i++){
