@@ -1,4 +1,4 @@
-//Median of Two Sorted Arrays
+//Find the Median of Two Sorted Arrays
 #include<iostream>
 #include<algorithm>
 using namespace std;
