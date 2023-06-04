@@ -1,4 +1,4 @@
-//Sort by 0,1,2
+//Sort the array by 0,1,2
 #include<iostream>
 using namespace std;
 
