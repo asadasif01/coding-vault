@@ -23,7 +23,7 @@ bool checker(string c)
 			}
 			else
 			{
-				cout << "u" << endl;
+				//cout << "u" << endl;
 				ans = false;
 
 				break;
